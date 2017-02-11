@@ -9,7 +9,7 @@ You get 1 point for moving, ­1 for hitting a wall, 10 for bumping into another 
 * synchronize the access of multiple threads to the shared resource.
 ```
 <p align="center">
-  <img src="example" width="350"/>
+  <img src="example.png" width="350"/>
 </p>
 
 
